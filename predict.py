@@ -169,4 +169,3 @@ if __name__ == "__main__":
 
     print("\nPrediction Result:")
     print(result)
-```
